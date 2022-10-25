@@ -1,0 +1,3 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+7.03554340090257,Cliente.83,eleccionTaquilla,6.RoutingOutLogic,[SetNode] NextDestination,Entity 'Cliente.83' does not have an assigned sequence table.
+
