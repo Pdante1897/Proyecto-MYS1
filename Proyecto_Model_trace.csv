@@ -1,3 +1,16 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-7.03554340090257,Cliente.83,eleccionTaquilla,6.RoutingOutLogic,[SetNode] NextDestination,Entity 'Cliente.83' does not have an assigned sequence table.
+7.04454363627955,--,--,--,--,Destroying entity with seized resources
+7.04454363627955,--,--,--,--,"Entity 'Cliente.188' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.06806367001784,--,--,--,--,Destroying entity with seized resources
+7.06806367001784,--,--,--,--,"Entity 'Cliente.189' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.21921160433625,--,--,--,--,Destroying entity with seized resources
+7.21921160433625,--,--,--,--,"Entity 'Cliente.193' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.29945113980278,--,--,--,--,Destroying entity with seized resources
+7.29945113980278,--,--,--,--,"Entity 'Cliente.197' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.3435064442523,--,--,--,--,Destroying entity with seized resources
+7.3435064442523,--,--,--,--,"Entity 'Cliente.202' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.35092283963654,--,--,--,--,Destroying entity with seized resources
+7.35092283963654,--,--,--,--,"Entity 'Cliente.204' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+7.38509790025722,--,--,--,--,Destroying entity with seized resources
+7.38509790025722,--,--,--,--,"Entity 'Cliente.205' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
 
